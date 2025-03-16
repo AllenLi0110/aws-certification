@@ -22,7 +22,7 @@ Amazon Q Developer
 
 ```
 Code generation
-Conversation search
+Conversational search
 ```
 
 5. What is the name of the models used to create generative artificial intelligence(AI) applications?
