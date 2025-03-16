@@ -1,3 +1,5 @@
+## 2025 aws educate exam
+
 1. Suppose you are a network engineer at a live streaming company, and your goal is to minimize the latency for users watching live streams. To achieve this goal, which AWS Route 53 routing policy should you use?
 
 ```
