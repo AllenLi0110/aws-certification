@@ -14,7 +14,7 @@ Today, I had a great time with my friend Kerwin at the AWS Educate CP Workshop! 
 
 #### Sorting Hat Demo
 
-[Sorting Hat Quiz Demo](/images/sorting-hat-quiz.mov)
+[Sorting Hat Quiz Demo](/images/sorting-hat-quiz.gif)
 
 ### Application Load Balancer
 
