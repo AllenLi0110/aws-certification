@@ -14,6 +14,10 @@ This repository contains my personal learning notes for the AWS Certification ex
 
 ## Events & Workshops
 
+- 2025/03/22 CP workshop
+- 2025/03/29 AI workshop 1
+- 2025/04/13 AI workshop 2
+
 ## Contents
 
 - AWS Route 53 Routing Policies
