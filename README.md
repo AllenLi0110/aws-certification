@@ -12,6 +12,8 @@ This repository contains my personal learning notes for the AWS Certification ex
 4. AWS Certified Developer - Associate
 5. AWS Certified SysOps Administrator - Associate
 
+## Events & Workshops
+
 ## Contents
 
 - AWS Route 53 Routing Policies

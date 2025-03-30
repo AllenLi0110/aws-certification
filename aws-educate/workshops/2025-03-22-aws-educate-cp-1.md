@@ -1,4 +1,4 @@
-# 2025/03/22 AWS Educate Event
+# 2025/03/22 AWS Educate Workshop 1
 
 Today, I had a great time with my friend Kerwin at the AWS Educate CP Workshop! We’re excited for the next challenges ahead!
 
