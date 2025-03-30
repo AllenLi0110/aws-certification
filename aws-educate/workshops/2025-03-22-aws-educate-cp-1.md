@@ -4,7 +4,7 @@ Today, I had a great time with my friend Kerwin at the AWS Educate CP Workshop! 
 
 ## AWS Educate TW
 
-[AWS Educate TW](/images/2025-03-22-aws-educate-tw-event.jpg)
+![AWS Educate TW](/images/2025-03-22-aws-educate-tw-event.jpg)
 
 ## Workshop Hands-on
 
