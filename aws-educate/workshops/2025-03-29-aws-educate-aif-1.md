@@ -4,14 +4,14 @@ Today, Kerwin and I joined the AWS Educate workshop. We learned how to use Ampli
 
 ## AWS Educate TW
 
-![AWS Educate TW](images/2025-03-29-aws-educate-tw-event.jpg)
+![AWS Educate TW](/images/2025-03-29-aws-educate-tw-event.jpg)
 
 ## Workshop Hands-on
 
 ### Taylor Swift Chatbot
 
-![Taylor Swift Chatbot](images/aws-educate-taylor-swift-workshop-veed.gif)
+![Taylor Swift Chatbot](/images/aws-educate-taylor-swift-workshop-veed.gif)
 
 ### The Architecture
 
-![The Architecture](images/the-architecture.png)
+![The Architecture](/images/the-architecture.png)
