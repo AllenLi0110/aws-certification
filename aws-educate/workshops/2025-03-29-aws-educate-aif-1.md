@@ -15,3 +15,7 @@ Today, Kerwin and I joined the AWS Educate workshop. We learned how to use Ampli
 ### The Architecture
 
 ![The Architecture](/images/the-architecture.png)
+
+### The AIF Event 1 Certificate
+
+![The AIF Event 1 Certificate](/images/aws-aif-event-certificate.png)
