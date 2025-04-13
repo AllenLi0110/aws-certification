@@ -1,6 +1,6 @@
 # 2025/04/13 AWS Educate Workshop 3
 
-This afternoon, I took a train to Taipei to attend the AWS Educate workshop. We built an integration using a Line bot and AWS services like Bedrock, Knowledge Base, S3, and Lambda. It was a great hands-on experience with cloud applications.
+This afternoon, I took a train to Taipei to attend the AWS Educate workshop. We built an integration using a Line bot and AWS services like Bedrock, Knowledge Base, S3, and Lambda. It was a great hands-on experience with AI feature.
 
 ## AWS Educate TW
 
