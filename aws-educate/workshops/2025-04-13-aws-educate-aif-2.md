@@ -17,3 +17,5 @@ This afternoon, I took a train to Taipei to attend the AWS Educate workshop. We 
 ![The Architecture](/images/aws-educate-aif-2-the-architecture.png)
 
 ### The AIF Event 2 Certificate
+
+![The AIF Event 2 Certificate](/images/aws-aif-2-event-certificate.png)
