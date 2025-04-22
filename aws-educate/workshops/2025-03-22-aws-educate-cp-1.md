@@ -19,3 +19,7 @@ Today, I had a great time with my friend Kerwin at the AWS Educate CP Workshop! 
 ### Application Load Balancer
 
 ![Application Load Balancer](/images/link-alb.png)
+
+### The CP Event 1 Certificate
+
+![The CP Event 1 Certificate](/images/aws-cp-1-event-certificate.png)
