@@ -18,4 +18,4 @@ Today, Kerwin and I joined the AWS Educate workshop. We learned how to use Ampli
 
 ### The AIF Event 1 Certificate
 
-![The AIF Event 1 Certificate](/images/aws-aif-event-certificate.png)
+![The AIF Event 1 Certificate](/images/aws-aif-1-event-certificate.png)
