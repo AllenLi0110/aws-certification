@@ -429,3 +429,12 @@ AWS 負責管理基礎設施和服務平台（如 S3 的作業系統）以及更
 Use Access Key ID and Secret Access Key to access AWS resources programmatically
 使用 Access Key ID 和 Secret Access Key 是推薦的方式，讓應用程式或腳本能安全地以程式化方式存取 AWS 資源。
 ```
+
+55.Which of the following AWS services support **reservations** to **optimize costs**? (Select three)
+
+```
+Amazon RDS
+Amazon DynamoDB
+Amazon EC2
+Amazon EC2、Amazon RDS 和 Amazon DynamoDB 都支援保留容量（Reserved Instances 或 Reserved Capacity），可用來降低長期使用成本。
+```
