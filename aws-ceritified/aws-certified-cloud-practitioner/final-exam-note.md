@@ -880,3 +880,61 @@ AWS 提供 SDK、CLI 和管理控制台三種主要方式，讓開發者或使�
 AWS Health - Your Account Health Dashboard
 AWS Health 提供針對您帳戶架構中使用的 AWS 服務狀態的個人化視圖，幫助您快速評估服務中斷對業務的影響。
 ```
+
+116.A research group wants to provision an Amazon Elastic Compute Cloud (Amazon EC2) instance for a **flexible application** that **can be interrupted**. As a Cloud Practitioner, which of the following would you recommend as the MOST **cost-optimal** option?
+
+```
+Spot Instance
+Spot Instance 可提供高達 90% 的成本節省，適合容許中斷的彈性工作負載，例如批次處理或研究運算，非常適合預算敏感的應用場景。
+```
+
+117.An IT company is on a **cost-optimization** spree and wants to **identify all Amazon Elastic Compute Cloud (Amazon EC2) instances that are under-utilized**. Which AWS services can be used off-the-shelf to address this use-case **without needing any manual configurations**? (Select two)
+
+```
+AWS Trusted Advisor
+AWS Cost Explorer
+AWS Trusted Advisor 提供最佳實踐建議，包括找出低使用率的 EC2 實例，而 AWS Cost Explorer 則可視覺化資源使用趨勢並分析成本，兩者都能無需手動設定即可協助節省資源。
+```
+
+118.An organization maintains separate Amazon Virtual Private Clouds (Amazon VPC) for each of its departments. With expanding business, the organization now wants to **connect all Amazon Virtual Private Clouds** (Amazon VPC) for better departmental collaboration. Which AWS service will help the organization tackle the issue effectively?
+
+```
+AWS Transit Gateway
+AWS Transit Gateway 可讓多個 VPC 和本地網路經由一個集中的 gateway 相互連接，提供更簡潔、可擴展的網路架構，非常適合多部門或多帳號的環境。這樣可避免建立多條 VPC 對等連線（VPC Peering）造成的複雜性，提升跨部門協作的效率。
+```
+
+119.Which of the following AWS services specialize in **data migration** from **on-premises to AWS Cloud**? (Select two)
+
+```
+AWS Snowball
+AWS Database Migration Service (AWS DMS)
+AWS Snowball 用於大規模實體資料傳輸，而 AWS DMS 則專注於資料庫的遷移，兩者皆適用於將資料從本地移至 AWS 雲端。
+```
+
+120.A startup runs its proprietary application **on docker containers**. As a Cloud Practitioner, which AWS service would you recommend so that the startup can run containers and still have **access to the underlying servers**?
+
+```
+Amazon Elastic Container Service (Amazon ECS)
+Amazon ECS 支援 Docker 容器的部署，並且允許你使用 EC2 launch type，讓開發人員能夠管理並存取底層伺服器。
+```
+
+121.Which Amazon **Route 53** **routing policy** would you use when you want to route your traffic in an **active-passive configuration**?
+
+```
+Failover routing
+Failover routing policy 允許你設定主動（active）和被動（passive）的資源，在主要資源失效時自動將流量導向備援資源。
+```
+
+122.Which of the following is a part of the **AWS Global Infrastructure**?
+
+```
+AWS Region
+AWS Region 是 AWS 全球基礎設施的一部分，每個 Region 包含多個可用區域（Availability Zones），用於部署應用並實現高可用性與容錯能力。
+```
+
+123.Which AWS service **protects your AWS account** by **monitoring malicious activity** and **detecting threats**?
+
+```
+Amazon GuardDuty
+Amazon GuardDuty 是一項威脅偵測服務，能夠持續監控您的 AWS 環境以發現惡意活動和可疑行為，幫助您保護帳戶和資源安全。
+```
