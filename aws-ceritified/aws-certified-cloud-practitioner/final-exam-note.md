@@ -938,3 +938,25 @@ AWS Region 是 AWS 全球基礎設施的一部分，每個 Region 包含多個�
 Amazon GuardDuty
 Amazon GuardDuty 是一項威脅偵測服務，能夠持續監控您的 AWS 環境以發現惡意活動和可疑行為，幫助您保護帳戶和資源安全。
 ```
+
+124.An IT company has a **hybrid cloud architecture** and it wants to **centralize the server logs** for its **Amazon Elastic Compute Cloud (Amazon EC2) instances and on-premises servers**. Which of the following is the MOST effective for this use-case?
+
+```
+Use Amazon CloudWatch Logs for both the Amazon Elastic Compute Cloud (Amazon EC2) instance and the on-premises servers
+Amazon CloudWatch Logs 支援從 AWS EC2 和本地伺服器收集與集中日誌資料，是集中管理混合雲環境日誌的最有效方式。
+```
+
+125.Which of the following **AWS services** are **regional in scope**? (Select two)
+
+```
+AWS Lambda
+Amazon Rekognition
+AWS Lambda 和 Amazon Rekognition 是 區域性 (regional) 服務，它們在特定的 AWS 區域內運作，使用時需選擇部署區域。
+```
+
+126.A financial services company must meet **compliance requirements** that mandate storing **multiple copies** of data in **geographically distant locations**. As the company uses **Amazon Simple Storage Service (Amazon S3)** as its main storage service, which of the following represents the MOST resource-efficient solution for this use-case?
+
+```
+Use S3 cross-region replication (S3 CRR) to replicate data between distant AWS Regions
+S3 Cross-Region Replication（CRR）可自動將資料從一個 AWS 區域的 S3 儲存桶複製到另一個區域，滿足合規要求並實現地理冗餘。
+```
