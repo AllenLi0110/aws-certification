@@ -960,3 +960,10 @@ AWS Lambda 和 Amazon Rekognition 是 區域性 (regional) 服務，它們在特
 Use S3 cross-region replication (S3 CRR) to replicate data between distant AWS Regions
 S3 Cross-Region Replication（CRR）可自動將資料從一個 AWS 區域的 S3 儲存桶複製到另一個區域，滿足合規要求並實現地理冗餘。
 ```
+
+127.An IT company would like to **move its IT resources** (including any data and applications) from **an AWS Region in the US to another AWS Region in Europe**. Which of the following represents the correct solution for this use-case?
+
+```
+The company should just start creating new resources in the destination AWS Region and then migrate the relevant data and applications into this new AWS Region
+AWS 資源是區域性（regional）的，無法直接跨區域移動，正確做法是手動在目標區域重建資源並遷移資料和應用程式。
+```
