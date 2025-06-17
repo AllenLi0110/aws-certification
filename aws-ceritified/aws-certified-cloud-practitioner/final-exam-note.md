@@ -967,3 +967,13 @@ S3 Cross-Region Replication（CRR）可自動將資料從一個 AWS 區域的 S3
 The company should just start creating new resources in the destination AWS Region and then migrate the relevant data and applications into this new AWS Region
 AWS 資源是區域性（regional）的，無法直接跨區域移動，正確做法是手動在目標區域重建資源並遷移資料和應用程式。
 ```
+
+128.Which of the following are recommended best practices for **AWS Identity and Access Management (AWS IAM)** service? (Select two)
+
+```
+Rotate credentials regularly
+Enable multi-factor authentication (MFA) for all users
+定期更換憑證與為所有使用者啟用 MFA 是提升帳戶安全性的 AWS IAM 服務最佳實踐。
+```
+
+129.
