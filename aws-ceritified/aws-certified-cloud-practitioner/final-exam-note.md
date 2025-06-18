@@ -976,4 +976,9 @@ Enable multi-factor authentication (MFA) for all users
 定期更換憑證與為所有使用者啟用 MFA 是提升帳戶安全性的 AWS IAM 服務最佳實踐。
 ```
 
-129.
+129.Amazon **CloudWatch** **billing metric data** is stored in which AWS Region?
+
+```
+US East (N. Virginia) - us-east-1
+Amazon CloudWatch 的帳單指標（Billing Metric）統一儲存在 美東（N. Virginia）us-east-1 區域，不論 AWS 使用者所在的其他區域為何。
+```
