@@ -982,3 +982,10 @@ Enable multi-factor authentication (MFA) for all users
 US East (N. Virginia) - us-east-1
 Amazon CloudWatch 的帳單指標（Billing Metric）統一儲存在 美東（N. Virginia）us-east-1 區域，不論 AWS 使用者所在的其他區域為何。
 ```
+
+130.Under the **AWS Shared Responsibility Model**, which of the following is the responsibility of a customer regarding AWS Lambda?
+
+```
+Maintain versions of an AWS Lambda function
+在 AWS Shared Responsibility Model 中，客戶需負責管理 Lambda 函數的程式碼版本與邏輯，而 AWS 則負責運行環境與基礎設施的安全性。
+```
