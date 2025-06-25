@@ -989,3 +989,49 @@ Amazon CloudWatch 的帳單指標（Billing Metric）統一儲存在 美東（N.
 Maintain versions of an AWS Lambda function
 在 AWS Shared Responsibility Model 中，客戶需負責管理 Lambda 函數的程式碼版本與邏輯，而 AWS 則負責運行環境與基礎設施的安全性。
 ```
+
+131. **AWS Lambda pricing** is based on which of the following criteria? (Select two)
+
+```
+Number of requests for the AWS Lambda function
+The time it takes for the AWS Lambda function to execute
+AWS Lambda 的計費方式根據函數的請求次數與**執行時間（以毫秒計）**來收費，確保只為實際使用的資源付費。
+```
+
+132.A startup has just moved its IT infrastructure to AWS Cloud. The CTO would like to **receive detailed reports** that break down the startup's **AWS costs by the hour** in an **Amazon Simple Storage Service** (Amazon S3) bucket. As a Cloud Practitioner, which AWS service would you recommend for this use-case?
+
+```
+AWS Cost & Usage Report (AWS CUR)
+AWS Cost & Usage Report（CUR）能提供最詳細的成本與使用量數據，並自動儲存在指定的 S3 bucket 中，讓企業進行每小時的成本分析。
+```
+
+133.An AWS user is trying to launch an **Amazon Elastic Compute Cloud (Amazon EC2) instance** in a given region. What is the **region-specific constraint** that the **Amazon Machine Image (AMI)** must meet so that it can be used for this Amazon Elastic Compute Cloud (Amazon EC2) instance?
+
+```
+You must use an Amazon Machine Image (AMI) from the same region as that of the Amazon EC2 instance. The region of the Amazon Machine Image (AMI) has no bearing on the performance of the Amazon EC2 instance
+AMI 是區域性的資源，只能用在與其相同區域的 EC2 實例上，否則無法啟動。性能不會受 AMI 所在區域影響。
+```
+
+134.Which pillar of the **AWS Well-Architected Framework** recommends maintaining **infrastructure as code** (IaC)?
+
+```
+Operational Excellence
+Operational Excellence 支柱強調透過 Infrastructure as Code (IaC) 管理基礎設施，讓部署可重現、可版本控並易於自動化與改進。
+```
+
+135.**AWS Trusted Advisor analyzes** your AWS environment and provides **best practice recommendations** for which of the following categories? (Select two)
+
+```
+Service Limits
+Cost Optimization
+AWS Trusted Advisor 提供服務限制（Service Limits）與成本最佳化（Cost Optimization）等方面的建議，協助用戶提升資源效率與安全性。
+```
+
+136.A leading research firm needs to **access information** available in **old patents and documents** (**such as PDFs, Text Files, Word documents**, etc) present in its huge knowledge base. The firm is looking for a **powerful search tool** that can dig into these knowledge resources and **return the most relevant files/documents**. Which of the following is the correct service to address this requirement?
+
+```
+Amazon
+Amazon Kendra 是一個智慧型搜尋服務，能深入非結構化資料（如 PDF、Word 等）中搜尋並回傳最相關的結果，非常適合查找舊專利與知識文件。
+```
+
+137.
